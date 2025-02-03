@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("webbclientnorris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+081f3dd62efa71bb7e191249f98a29015f4d9eec")]
 [assembly: System.Reflection.AssemblyProductAttribute("webbclientnorris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("webbclientnorris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

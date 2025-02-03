@@ -15,6 +15,7 @@ await goblinsocket.SendAsync(smsg,WebSocketMessageType.Text,true,CancellationTok
 byte[] ezhomelessgoblinres = new byte[1024];
 var ezgoblinnoobhahahha = await goblinsocket.ReceiveAsync(new ArraySegment<byte>(ezhomelessgoblinres),CancellationToken.None);
 string ahhahagoblimotagennoobez = Encoding.UTF8.GetString(ezhomelessgoblinres,0,ezgoblinnoobhahahha.Count);
+Console.WriteLine(ahhahagoblimotagennoobez);
   }
-  
+
 }

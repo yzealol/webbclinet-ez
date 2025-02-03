@@ -12,3 +12,4 @@ C:\Users\hg8352\OneDrive - LYSTKOM\Programering\webbclinet 2\webbclientnorris\ob
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\webbclinet 2\webbclientnorris\obj\Debug\net8.0\webbclientnorris.pdb
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\webbclinet 2\webbclientnorris\obj\Debug\net8.0\webbclientnorris.genruntimeconfig.cache
 C:\Users\hg8352\OneDrive - LYSTKOM\Programering\webbclinet 2\webbclientnorris\obj\Debug\net8.0\ref\webbclientnorris.dll
+C:\Users\hg8352\OneDrive - LYSTKOM\Programering\webbclinet 2\webbclientnorris\obj\Debug\net8.0\webbclientnorris.sourcelink.json
